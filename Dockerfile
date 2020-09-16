@@ -1,0 +1,11 @@
+﻿FROM mcr.microsoft.com/dotnet/core/sdk:3.1-alpine
+WORKDIR /app
+COPY ./out/** /app/
+
+ENV REEBOT_TOKEN=''
+ENV REEBOT_COMMANDPREFIX=''
+ENV REEBOT_LOGCHANNELID=''
+ENV REEBOT_REDDIT_APP_ID=''
+ENV REEBOT_REDDIT_REFRESH_TOKEN=''
+
+ENTRYPOINT ["dotnet", "Reebot.dll"]

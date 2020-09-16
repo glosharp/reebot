@@ -1,0 +1,14 @@
+﻿# Ignore IDE Files
+.vscode
+.idea
+.run
+
+# Ignore file out
+bin/**
+bin
+obj
+out
+
+# Ignore particular files
+.env
+Folder.DotSettings.user

@@ -1,0 +1,105 @@
+﻿{
+  "description": "Reebot levels. These are used to map user's XP to levels. These levels follow that of DND 5th Edition leveling system.",
+  "levels": [
+    {
+      "level": 1,
+      "start_xp": 0,
+      "max_xp": 299
+    },
+    {
+      "level": 2,
+      "start_xp": 300,
+      "max_xp": 899
+    },
+    {
+      "level": 3,
+      "start_xp": 900,
+      "max_xp": 2699
+    },
+    {
+      "level": 4,
+      "start_xp": 2700,
+      "max_xp": 6499
+    },
+    {
+      "level": 5,
+      "start_xp": 6500,
+      "max_xp": 13999
+    },
+    {
+      "level": 6,
+      "start_xp": 14000,
+      "max_xp": 22999
+    },
+    {
+      "level": 7,
+      "start_xp": 23000,
+      "max_xp": 33999
+    },
+    {
+      "level": 8,
+      "start_xp": 34000,
+      "max_xp": 300
+    },
+    {
+      "level": 9,
+      "start_xp": 48000,
+      "max_xp": 63999
+    },
+    {
+      "level": 10,
+      "start_xp": 64000,
+      "max_xp": 84999
+    },
+    {
+      "level": 11,
+      "start_xp": 85000,
+      "max_xp": 99999
+    },
+    {
+      "level": 12,
+      "start_xp": 100000,
+      "max_xp": 119999
+    },
+    {
+      "level": 13,
+      "start_xp": 120000,
+      "max_xp": 139999
+    },
+    {
+      "level": 14,
+      "start_xp": 140000,
+      "max_xp": 164999
+    },
+    {
+      "level": 15,
+      "start_xp": 165000,
+      "max_xp": 194000
+    },
+    {
+      "level": 16,
+      "start_xp": 195000,
+      "max_xp": 224999
+    },
+    {
+      "level": 17,
+      "start_xp": 225000,
+      "max_xp": 264999
+    },
+    {
+      "level": 19,
+      "start_xp": 265000,
+      "max_xp": 304999
+    },
+    {
+      "level": 19,
+      "start_xp": 305000,
+      "max_xp": 354999
+    },
+    {
+      "level": 20,
+      "start_xp": 355000,
+      "max_xp": 9999999
+    }
+  ]
+}
